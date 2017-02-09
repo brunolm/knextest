@@ -1,0 +1,20 @@
+{
+  "name": "knextest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/knex": "0.0.41",
+    "@types/node": "^7.0.5",
+    "knex": "^0.12.6",
+    "pg": "^6.1.2",
+    "ts-node": "^2.1.0",
+    "typescript": "^2.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
